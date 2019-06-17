@@ -6,5 +6,6 @@
 Universal Pictures 和 Paramount Pictures 之间的对比情况如何？  
 ## 问题 3：  
 改编电影和原创电影的对比情况如何？(通过keywords变量中的based on novel字段来判断)  
-更重要的是，客户请你根据提供的数据，额外回答第四个问题。
-
+更重要的是，客户请你根据提供的数据，额外回答第四个问题。  
+## 数据可视化分析地址：  
+https://public.tableau.com/profile/vincent.teng#!/vizhome/UdacityP3/Q  
